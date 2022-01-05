@@ -3,7 +3,7 @@ Play with svg in react
 
 <h2>Points of interest</h2>
 <ul>
-<li>React logo is an svg. Here its color is changed using state</li>
+<li>React logo is an svg. Here its color is changed without the use of css</li>
 </ul>
 
 
